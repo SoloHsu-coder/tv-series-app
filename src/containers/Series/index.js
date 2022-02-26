@@ -56,4 +56,4 @@ export default Series;
                            // result ကို series assign လုပ်
 },[]
 ) //componentDidMount အစား useEffect/ after 2sec component re-render */
-    //့hi this is
+   
